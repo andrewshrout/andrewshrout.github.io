@@ -9,7 +9,7 @@
 
 ---
 [Tableau Visualizations](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/viz-mosaic-resized.jpg?raw=true"/>
 
 ---
 [mapstack.ai](/sample_page)

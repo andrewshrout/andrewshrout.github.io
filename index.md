@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[mapstack.ai](/sample_page)
+<img src="images/mapmockup.png?raw=true"/>
 
 ---
 

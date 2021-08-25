@@ -5,7 +5,7 @@
 ### Data Science/Analysis 
 
 [Real Estate ETL Pipeline](/sample_page)
-<img src="images/apartments.jpg?raw=true"/>
+<img src="images/apartmentsresize.jpg?raw=true"/>
 
 ---
 [Tableau Visualizations](/sample_page)

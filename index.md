@@ -5,23 +5,23 @@
 ### Data Science/Analysis 
 
 [Real Estate ETL Pipeline](/sample_page)
-<img src="images/etl_map.png?raw=true"/>
+<img src="images/apartments.jpg?raw=true"/>
 
 ---
-[Tableau Visualizations](/pdf/sample_presentation.pdf)
+[Tableau Visualizations](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Side Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [US Race and Historical Outliers](https://public.tableau.com/app/profile/andrew.shrout/viz/RaceintheUSA/AMERICASDIVERSITYMIX)
+- [2021 My Year in Reading](https://public.tableau.com/app/profile/andrew.shrout/viz/WhatIReadin2021/Dashboard1)
+- [Superstore Dashboard](https://public.tableau.com/app/profile/andrew.shrout/viz/SuperstoreBusinessDashboard_16299113506100/Dashboard)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 

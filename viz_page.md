@@ -3,7 +3,7 @@
 **Project description:** A sample of my client work and personal projects.
 
 ### 1. US Race and Historical Outliers [Link](https://public.tableau.com/app/profile/andrew.shrout/viz/RaceintheUSA/AMERICASDIVERSITYMIX)
-<img src="images/AMERICA'S DIVERSITY MIX.png?raw=true"/>
+<img src="images/diversity.png?raw=true"/>
 The US is a fairly diverse country but that diversity is not equally distributed. This visualization explores the regional distribution of race in America. Then each outlier's history is explored to find the reasons for its divergence.
 
 ### 2. Powerlifting: A Historical Comparison of Sexes [Link](https://public.tableau.com/app/profile/andrew.shrout/viz/MaleandFemalePowerliftingAcrossTime/Dashboard1)

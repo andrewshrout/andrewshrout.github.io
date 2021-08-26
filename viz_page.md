@@ -1,6 +1,5 @@
 ## Visualizations
-
-**Project description:** A sample of my client work and personal projects.
+A sample of my client work and personal projects.
 
 ### 1. US Race and Historical Outliers [Link](https://public.tableau.com/app/profile/andrew.shrout/viz/RaceintheUSA/AMERICASDIVERSITYMIX)
 <img src="images/diversity.png?raw=true"/>

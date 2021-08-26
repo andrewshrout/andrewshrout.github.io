@@ -27,7 +27,9 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ### 4. SQL / CQL
 
-[CQL Examples](https://github.com/andrewshrout/SQL-Portoflio-Examples)
+[SQL Examples](https://github.com/andrewshrout/SQL-Portoflio-Examples)
+
+CQL
 
 ### 4. Map App / Visualizations
 

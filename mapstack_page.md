@@ -4,23 +4,16 @@
 
 ### 1. Scrapers
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+I set up multiple scrapers on digitalocean droplets, and automated them with cronjobs to scrape bimonthly.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+[Apartments.com Scraper](https://github.com/andrewshrout/apartment-scraper)
+[Craigslist Scraper](https://github.com/andrewshrout/craig-scraper)
+[Redfin Scraper]
+[Airbnb Scraper]
 
 ### 2. Database Setup / SQL
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 ### 3. Cleaning Scripts
 

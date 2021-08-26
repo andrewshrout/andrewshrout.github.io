@@ -7,8 +7,11 @@
 I set up multiple scrapers on digitalocean droplets, and automated them with cronjobs to scrape bimonthly.
 
 [Apartments.com Scraper](https://github.com/andrewshrout/apartment-scraper)
+<br>
 [Craigslist Scraper](https://github.com/andrewshrout/craig-scraper)
+<br>
 [Redfin Scraper]
+<br>
 [Airbnb Scraper]
 
 ### 2. Database Setup / SQL

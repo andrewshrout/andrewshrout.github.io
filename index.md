@@ -24,7 +24,7 @@
 - [2021 My Year in Reading](https://public.tableau.com/app/profile/andrew.shrout/viz/WhatIReadin2021/Dashboard1)
 - [Superstore Dashboard](https://public.tableau.com/app/profile/andrew.shrout/viz/SuperstoreBusinessDashboard_16299113506100/Dashboard)
 - [A Historical Comparison of Sexes in Powerlifting](https://public.tableau.com/app/profile/andrew.shrout/viz/MaleandFemalePowerliftingAcrossTime/Dashboard1?publish=yes)
-
+- [Sketch Comedy Idea Generator](https://github.com/andrewshrout/script-generator)
 ---
 
 

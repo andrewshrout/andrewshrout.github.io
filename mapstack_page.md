@@ -27,7 +27,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ### 4. SQL / CQL
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+[CQL Examples](https://github.com/andrewshrout/SQL-Portoflio-Examples)
 
 ### 4. Map App / Visualizations
 

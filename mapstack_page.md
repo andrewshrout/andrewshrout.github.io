@@ -1,10 +1,11 @@
 ## Real Estate ETL Pipeline
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** 
+For a proptech startup, I acquired >4M data points a month, and cleaned them
+
+I set up multiple scrapers on digitalocean droplets, and automated them with cronjobs to scrape bimonthly. They reported to telegram with telemon, and deposited the data into an S3 bucket. This triggered Cloudwatch (for reporting), and lambda functions which would clean the data and deposit into an AWS RDS. It would then be fetched client side via CQL, and a Geoserver set up on an EC2 instance.
 
 ### 1. Scrapers
-
-I set up multiple scrapers on digitalocean droplets, and automated them with cronjobs to scrape bimonthly.
 
 [Apartments.com Scraper](https://github.com/andrewshrout/apartment-scraper)
 <br>
@@ -14,17 +15,17 @@ I set up multiple scrapers on digitalocean droplets, and automated them with cro
 <br>
 [Airbnb Scraper]
 
-### 2. Database Setup / SQL
+### 2. Cleaning Scripts
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-### 3. Cleaning Scripts
+### 3. Jupiter Notebook Data Exploration
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-### 4. Jupiter Notebooks
+### 4. SQL / CQL
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 

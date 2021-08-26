@@ -1,33 +1,20 @@
-## Vizualisations
+## Visualizations
 
 **Project description:** A sample of my client work and personal projects.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. US Race and Historical Outliers
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The US is a fairly diverse country but that diversity is not equally distributed. This visualization explores the regional distribution of race in America. Then each outlier's history is explored to find the reasons for its divergence.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Powerlifting: A Historical Comparison of Sexes
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+Powerlifting is a sport that attempts to isolate strength in three lifts - the bench press, the squat, and the deadlift. Over time, women joined the sport, and have closed the gap in strength in absolute terms. The Wilks Coefficient is used to measure relative strength despite gender or weight class. This gap has also closed over time.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. What I Read in 2021
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+I started tracking every page, author, and genre read. My hope was to make better choices in what genres and authors to explore and widen my horizons in the second half of 2021. This is a living visualization to track that effort.
 
-
-### 4. Provide a basis for further data collection through surveys or experiments
+### 4. Superstore Business Dashboard
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+This is a sample business dashboard using figma for better looking visuals and the superstore dataset. The tabs are clickable to isolate by region with filter actions.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

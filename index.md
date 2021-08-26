@@ -3,14 +3,15 @@
 ---
 
 ### Data Science/Analysis 
-
-[Real Estate ETL Pipeline](/sample_page)
-<img src="images/panel-2.png?raw=true"/>
-
 ---
 [Tableau Visualizations](/sample_page)
 <img src="images/viz2.png?raw=true"/>
 
+[Real Estate ETL Pipeline](/sample_page)
+<img src="images/panel-2.png?raw=true"/>
+
+
+### Development 
 ---
 [mapstack.ai](/sample_page)
 <img src="images/mapmockup.png?raw=true"/>

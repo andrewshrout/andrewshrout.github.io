@@ -3,7 +3,7 @@ A sample of my client work and personal projects.
 
 ### 1. US Race and Historical Outliers [Link](https://public.tableau.com/app/profile/andrew.shrout/viz/RaceintheUSA/AMERICASDIVERSITYMIX)
 <img src="images/diversity.png?raw=true"/>
-Where is the diversity in American and why?
+Where is the diversity in American and what are the historical reasons for that?
 
 ### 2. Powerlifting: A Historical Comparison of Sexes [Link](https://public.tableau.com/app/profile/andrew.shrout/viz/MaleandFemalePowerliftingAcrossTime/Dashboard1)
 <img src="images/powerlifting.png?raw=true"/>

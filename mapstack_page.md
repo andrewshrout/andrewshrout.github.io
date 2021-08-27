@@ -11,9 +11,9 @@ I set up multiple scrapers on digitalocean droplets, and automated them with cro
 <br>
 [Craigslist Scraper](https://github.com/andrewshrout/craig-scraper)
 <br>
-[Redfin Scraper]
+[Airbnb Scraper](https://github.com/andrewshrout/AirBnB-Scraper)
 <br>
-[Airbnb Scraper]
+[Redfin Scraper]
 
 ### 2. Cleaning Scripts
 

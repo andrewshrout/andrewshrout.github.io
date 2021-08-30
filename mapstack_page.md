@@ -13,7 +13,7 @@ I set up multiple scrapers on digitalocean droplets, and automated them with cro
 <br>
 [Airbnb Scraper](https://github.com/andrewshrout/AirBnB-Scraper)
 <br>
-[Redfin Scraper]
+[Redfin Scraper (WIP)](https://github.com/andrewshrout/redfinspidertest/tree/main)
 
 ### 2. Cleaning Scripts
 

@@ -16,12 +16,13 @@ I set up multiple scrapers on digitalocean droplets, and automated them with cro
 [Redfin Scraper](https://github.com/andrewshrout/redfinspidertest/tree/main)
 
 ### 2. Cleaning Scripts
+[Readme](https://github.com/andrewshrout/cleaners)
 
-[Craigslist Cleaner]
+[Craigslist Cleaner](https://github.com/andrewshrout/cleaners/blob/main/craig_cleaner.py)
 
-[Apartments Cleaner]
+[Apartments Cleaner](https://github.com/andrewshrout/cleaners/blob/main/apartment_cleaner.py)
 
-[AirBnB Cleaner]
+[AirBnB Cleaner](https://github.com/andrewshrout/cleaners/blob/main/air_cleaner.py)
 
 ### 3. Jupiter Notebook Data Exploration
 

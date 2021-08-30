@@ -17,11 +17,11 @@ I set up multiple scrapers on digitalocean droplets, and automated them with cro
 
 ### 2. Cleaning Scripts
 [Readme](https://github.com/andrewshrout/cleaners)
-
+<br>
 [Craigslist Cleaner](https://github.com/andrewshrout/cleaners/blob/main/craig_cleaner.py)
-
+<br>
 [Apartments Cleaner](https://github.com/andrewshrout/cleaners/blob/main/apartment_cleaner.py)
-
+<br>
 [AirBnB Cleaner](https://github.com/andrewshrout/cleaners/blob/main/air_cleaner.py)
 
 ### 3. Jupiter Notebook Data Exploration

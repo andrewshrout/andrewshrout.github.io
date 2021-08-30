@@ -24,7 +24,7 @@ I set up multiple scrapers on digitalocean droplets, and automated them with cro
 <br>
 [AirBnB Cleaner](https://github.com/andrewshrout/cleaners/blob/main/air_cleaner.py)
 
-### 3. Jupiter Notebook Data Exploration
+### 3. Jupiter Notebook Data Exploration / Modeling
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 

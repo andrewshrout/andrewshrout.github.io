@@ -18,7 +18,9 @@ I set up multiple scrapers on digitalocean droplets, and automated them with cro
 ### 2. Cleaning Scripts
 
 [Craigslist Cleaner]
+
 [Apartments Cleaner]
+
 [AirBnB Cleaner]
 
 ### 3. Jupiter Notebook Data Exploration

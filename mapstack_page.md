@@ -39,5 +39,3 @@ CQL
 ### 4. Map App / Visualizations
 
 See [Mapstack](url) page.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

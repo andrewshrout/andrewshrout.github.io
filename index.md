@@ -11,7 +11,7 @@ This is a collection of my professional and personal projects visualized in Tabl
 
 [Real Estate ETL Pipeline](/sample_page)
 <br>
-This is a full extraction, transformation, and loading pipeline created for a proptech startup "mapstack". I extracted >4M data points monthly with various scrapers, cleaned them on AWS and loaded them into RDS. They were then pulled for a dashboard and mapping application to visualize for real estate investors.
+This is a full extraction(scrapy), transformation(pandas, numpy), and loading pipeline(sqlalchemy) created for a proptech startup "mapstack". I extracted >4M data points monthly with various scrapers, cleaned them on AWS and loaded them into RDS. They were then pulled for a dashboard and mapping application to visualize for real estate investors.
 
 <img src="images/panel-3.png?raw=true"/>
 
@@ -19,6 +19,7 @@ This is a full extraction, transformation, and loading pipeline created for a pr
 ---
 [mapstack.ai](/sample_page)
 <br>
+This is a dashboard / mapping application to display real estate data for investors. Created with Javascript/React/deck.gl.
 <img src="images/map.png?raw=true"/>
 
 ---

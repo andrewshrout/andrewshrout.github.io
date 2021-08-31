@@ -15,7 +15,6 @@ This is a full extraction, transformation, and loading pipeline created for a pr
 
 <img src="images/panel-3.png?raw=true"/>
 
-<br>
 ### Development 
 ---
 [mapstack.ai](/sample_page)

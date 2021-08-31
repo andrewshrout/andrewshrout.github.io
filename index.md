@@ -16,6 +16,7 @@
 ### Development 
 ---
 [mapstack.ai](/sample_page)
+<br>
 <img src="images/map.png?raw=true"/>
 
 ---

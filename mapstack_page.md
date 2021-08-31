@@ -28,13 +28,15 @@ I set up multiple scrapers on digitalocean droplets, and automated them with cro
 
 <img src="images/la-rent-resize.png?raw=true"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+[Analysis + Readme](https://github.com/andrewshrout/sample-explorations)
+<br>
+[Craigslist LA Data Analysis](https://github.com/andrewshrout/sample-explorations/blob/main/basic_la_analysis.ipynb)
+<br>
+[Crime Data Exploration + Modeling](https://github.com/andrewshrout/sample-explorations/blob/main/Crime%20Exploration.ipynb)
 
-### 4. SQL / CQL
+### 4. SQL
 
 [SQL Examples](https://github.com/andrewshrout/SQL-Portoflio-Examples)
-
-CQL
 
 ### 4. Map App / Visualizations
 

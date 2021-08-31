@@ -9,7 +9,7 @@
 This is a collection of my professional and personal projects visualized in Tableau.
 <img src="images/viz2.png?raw=true"/>
 
-[Real Estate ETL Pipeline](/sample_page)
+[Real Estate ETL Pipeline](/mapstack_page)
 <br>
 This is a full extraction (scrapy), transformation (pandas, numpy), and loading pipeline (sqlalchemy) created for a proptech startup "mapstack". I extracted >4M data points monthly with various scrapers, cleaned them on AWS and loaded them into RDS. They were then pulled for a dashboard and mapping application to visualize for real estate investors.
 

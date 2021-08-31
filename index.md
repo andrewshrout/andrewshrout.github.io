@@ -5,9 +5,11 @@
 ### Data Science/Analysis 
 ---
 [Tableau Visualizations](/viz_page)
+<br>
 <img src="images/viz2.png?raw=true"/>
 
 [Real Estate ETL Pipeline](/sample_page)
+<br>
 <img src="images/panel-3.png?raw=true"/>
 
 

@@ -9,13 +9,14 @@
 This is a collection of my professional and personal projects visualized in Tableau.
 <img src="images/viz2.png?raw=true"/>
 
+<br>
 [Real Estate ETL Pipeline](/sample_page)
 <br>
 This is a full extraction, transformation, and loading pipeline created for a proptech startup "mapstack". I extracted >4M data points monthly with various scrapers, cleaned them on AWS and loaded them into RDS. They were then pulled for a dashboard and mapping application to visualize for real estate investors.
 
 <img src="images/panel-3.png?raw=true"/>
 
-
+<br>
 ### Development 
 ---
 [mapstack.ai](/sample_page)
@@ -34,8 +35,3 @@ This is a full extraction, transformation, and loading pipeline created for a pr
 ---
 
 
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->

@@ -26,7 +26,7 @@ I set up multiple scrapers on digitalocean droplets, and automated them with cro
 
 ### 3. Jupiter Notebook Data Exploration / Modeling
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/la-rent-resize.png?raw=true"/>
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 

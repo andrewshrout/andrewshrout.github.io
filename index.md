@@ -17,7 +17,7 @@ This is a full extraction (scrapy), transformation (pandas, numpy), and loading 
 
 ### Development 
 ---
-[mapstack.ai](/sample_page)
+[mapstack.ai](https://github.com/andrewshrout/mapstack-ai)
 <br>
 This is a dashboard / mapping application to display real estate data for investors. Created with Javascript/React/deck.gl.
 <img src="images/map.png?raw=true"/>

@@ -40,4 +40,4 @@ I set up multiple scrapers on digitalocean droplets, and automated them with cro
 
 ### 4. Map App / Visualizations
 
-See [Mapstack](url) page.
+See [Mapstack](https://github.com/andrewshrout/mapstack-ai) page.

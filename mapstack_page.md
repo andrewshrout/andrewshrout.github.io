@@ -23,6 +23,9 @@ I set up multiple scrapers on digitalocean droplets, and automated them with cro
 [Apartments Cleaner](https://github.com/andrewshrout/cleaners/blob/main/apartment_cleaner.py)
 <br>
 [AirBnB Cleaner](https://github.com/andrewshrout/cleaners/blob/main/air_cleaner.py)
+<br>
+[Sample Cron Script]()
+
 
 ### 3. Jupiter Notebook Data Exploration / Modeling
 

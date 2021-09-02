@@ -5,6 +5,8 @@ For a proptech startup, I acquired >4M data points a month, and cleaned them
 
 I set up multiple scrapers on digitalocean droplets, and automated them with cronjobs to scrape bimonthly. They reported to telegram with telemon, and deposited the data into an S3 bucket. This triggered Cloudwatch (for reporting), and lambda functions which would clean the data and deposit into an AWS RDS. It would then be fetched client side via CQL, and a Geoserver set up on an EC2 instance.
 
+*insert architecture diagram here*
+
 ### 1. Scrapers
 
 [Apartments.com Scraper](https://github.com/andrewshrout/apartment-scraper)
@@ -24,7 +26,7 @@ I set up multiple scrapers on digitalocean droplets, and automated them with cro
 <br>
 [AirBnB Cleaner](https://github.com/andrewshrout/cleaners/blob/main/air_cleaner.py)
 <br>
-[Sample Cron Script]()
+[Cron Script]()
 
 
 ### 3. Jupiter Notebook Data Exploration / Modeling

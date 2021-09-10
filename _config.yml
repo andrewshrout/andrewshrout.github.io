@@ -5,7 +5,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am a <strong>Data Analyst</strong>, passionate about working with organisations that want to make effective use of their data; from the first ideas around what you want to measure and how to capture data accurately, through data preparation, analysis and management, all the way to impactful presentation of insights.
   <br><br>
   <a href="https://www.linkedin.com/in/andrewshrout/">View My LinkedIn Profile</a>
-  <br><br>
-  Click any of my projects to see a short explainer, and the code.
 theme: jekyll-theme-minimal
 google_analytics: G-WG1ZHLYYF8
